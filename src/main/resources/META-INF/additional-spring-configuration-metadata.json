@@ -1,0 +1,68 @@
+{
+  "properties": [
+    {
+      "name": "bank.parameters.agency",
+      "type": "java.lang.String",
+      "description": "Description for bank.parameters.agency."
+    },
+    {
+      "name": "rabbit.bank.account.queue",
+      "type": "java.lang.String",
+      "description": "Description for rabbit.bank.account.queue."
+    },
+    {
+      "name": "bank.parameters.score.bronze",
+      "type": "java.lang.String",
+      "description": "Description for bank.parameters.score.bronze."
+    },
+    {
+      "name": "bank.parameters.score.silver",
+      "type": "java.lang.String",
+      "description": "Description for bank.parameters.score.silver."
+    },
+    {
+      "name": "bank.parameters.score.gold",
+      "type": "java.lang.String",
+      "description": "Description for bank.parameters.score.gold."
+    },
+    {
+      "name": "bank.parameters.limit.special.platinum",
+      "type": "java.lang.String",
+      "description": "Description for bank.parameters.limit.special.platinum."
+    },
+    {
+      "name": "bank.parameters.limit.special.gold",
+      "type": "java.lang.String",
+      "description": "Description for bank.parameters.limit.special.gold."
+    },
+    {
+      "name": "bank.parameters.limit.special.silver",
+      "type": "java.lang.String",
+      "description": "Description for bank.parameters.limit.special.silver."
+    },
+    {
+      "name": "bank.parameters.limit.special.bronze",
+      "type": "java.lang.String",
+      "description": "Description for bank.parameters.limit.special.bronze."
+    },
+    {
+      "name": "bank.parameters.limit.credit.platinum",
+      "type": "java.lang.String",
+      "description": "Description for bank.parameters.limit.credit.platinum."
+    },
+    {
+      "name": "bank.parameters.limit.credit.gold",
+      "type": "java.lang.String",
+      "description": "Description for bank.parameters.limit.credit.gold."
+    },
+    {
+      "name": "bank.parameters.limit.credit.silver",
+      "type": "java.lang.String",
+      "description": "Description for bank.parameters.limit.credit.silver."
+    },
+    {
+      "name": "bank.parameters.limit.credit.bronze",
+      "type": "java.lang.String",
+      "description": "Description for bank.parameters.limit.credit.bronze."
+    }
+  ] }
